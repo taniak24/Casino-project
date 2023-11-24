@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1683545898 source:d:\programirane\shkola2\cards\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<ctime>
+	<fstream>
+	"global.h"
+	"draw_char.h"
+	"card.h"
+	"war.h"
+	"black_jack.h"
+
+1681134160 d:\programirane\shkola2\cards\draw_char.h
+
+1682423176 d:\programirane\shkola2\cards\card.h
+
+1680530086 d:\programirane\shkola2\cards\war.h
+
+1682685004 d:\programirane\shkola2\cards\global.h
+
+1683545728 d:\programirane\shkola2\cards\black_jack.h
+
+1687181458 source:d:\programirane\shkola2\casino\main.cpp
+	<iostream>
+	<windows.h>
+	<vector>
+	<algorithm>
+	<ctime>
+	<fstream>
+	"global.h"
+	"draw_char.h"
+	"card.h"
+	"tile.h"
+	"war.h"
+	"black_jack.h"
+	"menu.h"
+	"roulette.h"
+
+1687181236 d:\programirane\shkola2\casino\global.h
+
+1685272166 d:\programirane\shkola2\casino\draw_char.h
+
+1685271130 d:\programirane\shkola2\casino\card.h
+
+1680530086 d:\programirane\shkola2\casino\war.h
+
+1683545728 d:\programirane\shkola2\casino\black_jack.h
+
+1684075986 d:\programirane\shkola2\casino\menu.h
+
+1687183304 d:\programirane\shkola2\casino\roulette.h
+
+1685277114 d:\programirane\shkola2\casino\tile.h
+

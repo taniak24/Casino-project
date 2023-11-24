@@ -1,0 +1,13 @@
+using namespace std;
+
+class Roulette
+{
+public:
+    int player;
+
+
+
+    void draw_table(int x, int y, vector<string> names, vector<int> numbers);
+
+};
+
